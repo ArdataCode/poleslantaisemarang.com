@@ -1,0 +1,1427 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-0 START @ 06:32:13
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.32                                |8.1.13
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.13 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+REQUEST URL_________: "https://jasapoleslantaisemarang.com"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[cpnl-dbaction]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+INSTALL MODES_______: CLASSIC
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+URL_NEW_____________: "https://jasapoleslantaisemarang.com"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u1571057/public_html/jasapoleslantaisemarang.com/20230221_poleslantaisemarang_[HASH]_20230221060351_archive.zip"
+ARCHIVE SIZE________: 71.84MB
+CREATED_____________: 2023-02-21 06:03:51
+WP VERSION__________: 6.1.1
+DUP VERSION_________: 4.5.9.1
+LICENSE_____________: unlicensed
+DB VERSION__________: 10.4.20
+DB FILE SIZE________: 33.89MB
+DB TABLES___________: 22
+DB ROWS_____________: 9888
+URL HOME____________: https://jasapoleslantaisemarang.com
+URL CORE____________: https://jasapoleslantaisemarang.com
+URL CONTENT_________: https://jasapoleslantaisemarang.com/wp-content
+URL UPLOAD__________: https://jasapoleslantaisemarang.com/wp-content/uploads
+URL PLUGINS_________: https://jasapoleslantaisemarang.com/wp-content/plugins
+URL MU PLUGINS______: https://jasapoleslantaisemarang.com/wp-content/mu-plugins
+URL THEMES__________: https://jasapoleslantaisemarang.com/wp-content/themes
+PATH HOME___________: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html
+PATH ABS____________: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html
+PATH WPCONFIG_______: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html
+PATH WPCONTENT______: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html/wp-content
+PATH UPLOADS________: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html/wp-content/uploads
+PATH PLUGINS________: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html/wp-content/plugins
+PATH MUPLUGINS______: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html/wp-content/mu-plugins
+PATH THEMES_________: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "jasapoleslantaisemarang.com/"
+
+PLUGINS
+PLUGIN [SLUG:classic-editor/classic-editor.php                 ][ON:true ]  Classic Editor
+PLUGIN [SLUG:duplicator-pro/duplicator-pro.php                 ][ON:true ]  Duplicator Pro
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementskit-lite/elementskit-lite.php             ][ON:true ]  ElementsKit Lite
+PLUGIN [SLUG:envato-elements/envato-elements.php               ][ON:true ]  Envato Elements
+PLUGIN [SLUG:creame-whatsapp-me/joinchat.php                   ][ON:true ]  Joinchat
+PLUGIN [SLUG:malcare-security/malcare.php                      ][ON:true ]  MalCare WordPress Security Plugin - Malware Scanner, Cleaner, Security Firewall
+PLUGIN [SLUG:metform/metform.php                               ][ON:true ]  MetForm
+PLUGIN [SLUG:themesflat-addons-for-elementor/themesflat-addons-for-elementor.php][ON:true ]  Themesflat Addons For Elementor
+PLUGIN [SLUG:wp-media-folder/wp-media-folder.php               ][ON:true ]  WP Media folder
+PLUGIN [SLUG:wp-media-folder-addon/wp-media-folder-addon.php   ][ON:true ]  WP Media folder Addon
+PLUGIN [SLUG:wp-media-folder-gallery-addon/wp-media-folder-gallery-addon.php][ON:true ]  WP Media folder Gallery Addon
+
+********************************************************************************
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.04053]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.03438]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Package Age" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Subomain multisite installation in subfolder" [CLASS: DUPX_Validation_test_multisite_subfolder]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Subomain multisite installation in subfolder" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+LOG-TIME[DELTA:   0.00683]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "Wordpress Configuration" [CLASS: DUPX_Validation_test_wp_config]
+LOG-TIME[DELTA:   0.00253]  MESSAGE:TEST "Wordpress Configuration" RESULT: passed
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Functions and Classes" [CLASS: DUPX_Validation_test_php_functionalities]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Functions and Classes" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00689]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Cpanel connection" [CLASS: DUPX_Validation_test_cpnl_connection]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Cpanel connection" RESULT: skip
+
+START TEST "Create Database User" [CLASS: DUPX_Validation_test_cpnl_new_user]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create Database User" RESULT: skip
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00144]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00209]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00085]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00024]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WP Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00066]  MESSAGE:TEST "Multiple WP Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/database/class.db.php:678] MSG: SELECT command denied to user 'u1571057_POLESSMRG'@'localhost' for table 'user'
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u1571057_POLESSMRG' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/validation/class.validation.database.service.php[984]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/validation/class.validation.manager.php[239]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/classes/validation/class.validation.manager.php[212]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[171]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/ctrls/classes/class.ctrl.ajax.php[96]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/main.installer.php[47]
+
+LOG-TIME[DELTA:   0.00029]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.02590]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00061]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00087]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00059]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00033]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00012]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+START TEST "User created cleanup" [CLASS: DUPX_Validation_test_db_user_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "User created cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 06:33:01
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Poles Lantai Semarang"
+HOME URL NEW________: "https://jasapoleslantaisemarang.com"
+SITE URL NEW________: "https://jasapoleslantaisemarang.com"
+CONTENT URL NEW_____: "https://jasapoleslantaisemarang.com/wp-content"
+UPLOAD URL NEW______: "https://jasapoleslantaisemarang.com/wp-content/uploads"
+PLUGINS URL NEW_____: "https://jasapoleslantaisemarang.com/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://jasapoleslantaisemarang.com/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+SITE PATH NEW_______: "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+CONTENT PATH NEW____: "/home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content"
+UPLOAD PATH NEW_____: "/home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+REMOVE RENDUNDANT___: false
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer"
+	FILE: "/home/u1571057/public_html/jasapoleslantaisemarang.com/20230221_poleslantaisemarang_[HASH]_20230221060351_installer-backup.php"
+	FILE: "/home/u1571057/public_html/jasapoleslantaisemarang.com/20230221_poleslantaisemarang_[HASH]_20230221060351_archive.zip"
+	FILE: "/home/u1571057/public_html/jasapoleslantaisemarang.com/installer.php"
+	FILE: "/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer-bootlog__745c7bb-21060351.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230221_poleslantaisemarang_[HASH]_20230221060351_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING
+*** RESET CONFIG FILES END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+CHUNK COMPLETE - RUNTIME: 5.0059 sec. - Files processed: 568 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 568
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.1281 sec. - Files processed: 891 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 891
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.6796 sec. - Files processed: 1,083 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 1083
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0304 sec. - Files processed: 2,354 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 2354
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0163 sec. - Files processed: 3,038 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3038
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0556 sec. - Files processed: 3,455 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3455
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 3455
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0170 sec. - Files processed: 4,484 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+CHUNK COMPLETE - RUNTIME: 5.0418 sec. - Files processed: 4,840 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 4840
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0065 sec. - Files processed: 6,150 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 6150
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.5144 sec. - Files processed: 6,318 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 6318
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0091 sec. - Files processed: 6,722 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 6722
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0095 sec. - Files processed: 7,263 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 7263
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0131 sec. - Files processed: 8,091 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 8091
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0064 sec. - Files processed: 9,361 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 9361
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.6783 sec. - Files processed: 10,905 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 10905
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.7969 sec. - Files processed: 11,585 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 11585
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0591 sec. - Files processed: 11,956 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 11956
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+CHUNK COMPLETE - RUNTIME: 5.0266 sec. - Files processed: 12,647 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+ARCHIVE OFFSET 12647
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+FILE EXTRACTION: done processing last file in list of 13832
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 06:34:41 - RUNTIME: 99.6007 sec. - Files processed: 13,002 of 13,002
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 wp_
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 06:34:41
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "wp_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_bv_fw_requests]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:    5454] [EXTRACT|REPLACE] [INST NAME: wp_bv_ip_store]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_bv_lp_requests]
+TABLE "wp_chaty_contact_form_leads"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_chaty_contact_form_leads]
+TABLE "wp_commentmeta"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_commentmeta]
+TABLE "wp_comments"_____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_comments]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_entities]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: wp_duplicator_pro_packages]
+TABLE "wp_e_events"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_e_events]
+TABLE "wp_ju_queue"_____________________________________[ROWS:    1886] [EXTRACT|REPLACE] [INST NAME: wp_ju_queue]
+TABLE "wp_links"________________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_links]
+TABLE "wp_options"______________________________________[ROWS:     294] [EXTRACT|REPLACE] [INST NAME: wp_options]
+TABLE "wp_postmeta"_____________________________________[ROWS:    1897] [EXTRACT|REPLACE] [INST NAME: wp_postmeta]
+TABLE "wp_posts"________________________________________[ROWS:     276] [EXTRACT|REPLACE] [INST NAME: wp_posts]
+TABLE "wp_termmeta"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_termmeta]
+TABLE "wp_terms"________________________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_terms]
+TABLE "wp_term_relationships"___________________________[ROWS:      17] [EXTRACT|REPLACE] [INST NAME: wp_term_relationships]
+TABLE "wp_term_taxonomy"________________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: wp_term_taxonomy]
+TABLE "wp_usermeta"_____________________________________[ROWS:      59] [EXTRACT|REPLACE] [INST NAME: wp_usermeta]
+TABLE "wp_users"________________________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: wp_users]
+TABLE "wp_wpfm_backup"__________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: wp_wpfm_backup]
+TABLE "wp_wpmf_s3_queue"________________________________[ROWS:      80] [EXTRACT|REPLACE] [INST NAME: wp_wpmf_s3_queue]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.5.17 -- Build Server: 10.4.20
+FILE SIZE:	dup-database__[HASH].sql (24.02MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u1571057_POLESSMRG`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	187
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "wp_bv_fw_requests"_______________________________[ROWS:     0]
+TABLE "wp_bv_ip_store"__________________________________[ROWS:  5454]
+TABLE "wp_bv_lp_requests"_______________________________[ROWS:     0]
+TABLE "wp_chaty_contact_form_leads"_____________________[ROWS:     0]
+TABLE "wp_commentmeta"__________________________________[ROWS:     0]
+TABLE "wp_comments"_____________________________________[ROWS:     1]
+TABLE "wp_duplicator_pro_entities"______________________[ROWS:     6]
+TABLE "wp_duplicator_pro_packages"______________________[ROWS:     1]
+TABLE "wp_e_events"_____________________________________[ROWS:     0]
+TABLE "wp_ju_queue"_____________________________________[ROWS:  1886]
+TABLE "wp_links"________________________________________[ROWS:     0]
+TABLE "wp_options"______________________________________[ROWS:   294]
+TABLE "wp_postmeta"_____________________________________[ROWS:  1897]
+TABLE "wp_posts"________________________________________[ROWS:   276]
+TABLE "wp_term_relationships"___________________________[ROWS:    17]
+TABLE "wp_term_taxonomy"________________________________[ROWS:     6]
+TABLE "wp_termmeta"_____________________________________[ROWS:     0]
+TABLE "wp_terms"________________________________________[ROWS:     6]
+TABLE "wp_usermeta"_____________________________________[ROWS:    59]
+TABLE "wp_users"________________________________________[ROWS:     4]
+TABLE "wp_wpfm_backup"__________________________________[ROWS:     0]
+TABLE "wp_wpmf_s3_queue"________________________________[ROWS:    80]
+
+INSERT DATA RUNTIME: 2.8188 sec.
+STEP-2 COMPLETE @ 06:34:44 - RUNTIME: 2.8188 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/900667.cloudwaysapps.com/jcsqkunwgp/public_html REPLACE: /home/u1571057/public_html/jasapoleslantaisemarang.com [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 06:34:44
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 9223372036854775807], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = 1], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = 1]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 499M], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [wp_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_pro_ui_view_state","duplicator_pro_package_active","duplicator_pro_settings")
+DATABASE OPTIONS DELETED [ROWS:    34]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "wp_bv_fw_requests"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_ip_store"__________________________________[ROWS:  5454][PG:   6][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_bv_lp_requests"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_chaty_contact_form_leads"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_comments][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_entities"______________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_duplicator_pro_entities][0]
+
+EVALUATE TABLE: "wp_duplicator_pro_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_e_events"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_ju_queue"_____________________________________[ROWS:  1886][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_ju_queue][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_ju_queue][1]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   260][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_options][0]
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:  1897][PG:   2][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][wp_postmeta][1]
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:   276][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_posts][0]
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_terms][0]
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:    17][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_term_taxonomy][0]
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    59][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_usermeta][0]
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_users][0]
+
+EVALUATE TABLE: "wp_wpfm_backup"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_wpmf_s3_queue"________________________________[ROWS:    80][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/900667.cloudwaysapps.com/jcsqkunwgp/public_html" => "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+	CHUNK ACTION: CURRENT [search_replace][wp_wpmf_s3_queue][0]
+--------------------------------------
+SCANNED:	Tables:22 	|	 Rows:4481 	|	 Cells:30913 
+UPDATED:	Tables:2 	|	 Rows:83 	|	 Cells:83 
+ERRORS:		0 
+RUNTIME:	0.267000 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [rem_licenze_key][][]
+
+====================================
+REMOVE LICENSE KEY
+====================================
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php
+New .htaccess file created:/home/u1571057/public_html/jasapoleslantaisemarang.com/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "https://jasapoleslantaisemarang.com"
+	UPDATE DB_NAME ""u1571057_POLESSSMRG""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_CACHE "false"
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+UPDATE OPTION home ON TABLE wp_options
+UPDATE OPTION siteurl ON TABLE wp_options
+UPDATE OPTION duplicator_pro_exe_safe_mode ON TABLE wp_options
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+ - REMOVED 1 storage items
+ - REMOVED 0 schedule items
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u1571057/public_html/jasapoleslantaisemarang.com"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 06:34:44 - RUNTIME: 0.4122 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/src/Core/Bootstrap.php:75] RESET TIME
+STEP ACTION: "on-validate"
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] Warnings or notices on WordPress front-end tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php
+E_WARNING Constant AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[71]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[71]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[72]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[72]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[73]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[73]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[74]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[74]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[75]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[75]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[76]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[76]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[77]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[77]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[78]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[78]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Cookie/Jar.php[63]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Cookie/Jar.php[73]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Cookie/Jar.php[89]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Cookie/Jar.php[102]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Cookie/Jar.php[111]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[591]
+	CLASS___: Requests::set_defaults        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[365]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[40]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[51]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[68]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[82]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Utility/CaseInsensitiveDictionary.php[91]
+	--- TRACE ---
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response/Headers.php[13]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[146]
+	CLASS___: Requests::autoloader          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/Requests/Response.php[20]
+	CLASS___: Requests_Response->__constructFILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[631]
+	CLASS___: Requests::parse_response      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-requests.php[385]
+	CLASS___: Requests::request             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[395]
+	CLASS___: WP_Http->request              FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-http.php[615]
+	CLASS___: WP_Http->post                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/http.php[179]
+	FUNCTION: wp_remote_post                FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[922]
+	FUNCTION: spawn_cron                    FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/cron.php[994]
+	FUNCTION: _wp_cron                      FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[308]
+	CLASS___: WP_Hook->apply_filters        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/class-wp-hook.php[332]
+	CLASS___: WP_Hook->do_action            FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/plugin.php[525]
+	FUNCTION: do_action                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-settings.php[565]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[84]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-blog-header.php[13]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/index.php[3]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+-----------------------
+[NOTICE] Warnings or notices on WordPress backend tests!
+	SECTIONS: general
+	LONG MSG: SCRIPT FILE TEST: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php
+E_WARNING Constant AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[71]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[71]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[72]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[72]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[73]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[73]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_KEY already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[74]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[74]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[75]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[75]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant SECURE_AUTH_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[76]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[76]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant LOGGED_IN_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[77]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[77]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_WARNING Constant NONCE_SALT already defined
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[78]
+	--- TRACE ---
+	FUNCTION: define                        FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-config.php[78]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-load.php[50]
+	FUNCTION: require                       FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[12]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/formatting.php[5397]
+	--- TRACE ---
+	FUNCTION: preg_replace                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/formatting.php[5397]
+	FUNCTION: wp_strip_all_tags             FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/formatting.php[2127]
+	FUNCTION: sanitize_user                 FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/pluggable.php[597]
+	FUNCTION: wp_authenticate               FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/user.php[95]
+	FUNCTION: wp_signon                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[1231]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+E_DEPRECATED trim(): Passing null to parameter #1 ($string) of type string is deprecated
+	FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/pluggable.php[598]
+	--- TRACE ---
+	FUNCTION: trim                          FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/pluggable.php[598]
+	FUNCTION: wp_authenticate               FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-includes/user.php[95]
+	FUNCTION: wp_signon                     FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-login.php[1231]
+	FUNCTION: require_once                  FILE: /home/u1571057/public_html/jasapoleslantaisemarang.com/wp-content/wp_test_script_745c7bb-21060351.php[117]
+-----
+For solutions to these issues see the online FAQs 
+https://snapcreek.com/duplicator/docs 
+
+
+====================================
+LOG-TIME[/home/u1571057/public_html/jasapoleslantaisemarang.com/dup-installer/ctrls/ctrl.base.php:229][DELTA:   0.03679]  MESSAGE:END RENDER PAGE

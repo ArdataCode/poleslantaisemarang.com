@@ -1,0 +1,12 @@
+[22-Jan-2024 14:06:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[22-Jan-2024 14:06:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[22-Jan-2024 14:06:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

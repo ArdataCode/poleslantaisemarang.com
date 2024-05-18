@@ -1,0 +1,8 @@
+[22-Jan-2024 14:04:36 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[07-Apr-2024 02:09:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/landingu/poleslantaisemarang.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

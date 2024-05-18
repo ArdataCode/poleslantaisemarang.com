@@ -1,0 +1,16 @@
+[22-Jan-2024 14:06:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[22-Jan-2024 14:06:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[22-Jan-2024 14:06:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[22-Jan-2024 14:06:24 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

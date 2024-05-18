@@ -1,0 +1,1949 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Queak - Cleaning Service",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 01",
+            "screenshot": "screenshots\/footer-style-01.png",
+            "source": "templates\/footer-style-01.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/footer-style-01-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style 02",
+            "screenshot": "screenshots\/footer-style-02.png",
+            "source": "templates\/footer-style-02.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/footer-style-02\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Newsletter Home",
+            "screenshot": "screenshots\/form-newsletter-home.jpg",
+            "source": "templates\/form-newsletter-home.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/form-newsletter-home\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Footer",
+            "screenshot": "screenshots\/form-footer.jpg",
+            "source": "templates\/form-footer.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/form-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Query Servicesdetail",
+            "screenshot": "screenshots\/form-query-servicesdetail.jpg",
+            "source": "templates\/form-query-servicesdetail.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/form-query-servicesdetail\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Form Contact",
+            "screenshot": "screenshots\/form-contact.jpg",
+            "source": "templates\/form-contact.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/form-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Queak Tab Testimonial Home",
+            "screenshot": "screenshots\/queak-tab-testimonial-home.jpg",
+            "source": "templates\/queak-tab-testimonial-home.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/queak-tab-testimonial-home\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Queak Tab 01 Testimonial About",
+            "screenshot": "screenshots\/queak-tab-01-testimonial-about.jpg",
+            "source": "templates\/queak-tab-01-testimonial-about.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/queak-tab-01-testimonial-about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Queak Tab Package Pricing",
+            "screenshot": "screenshots\/queak-tab-package-pricing.png",
+            "source": "templates\/queak-tab-package-pricing.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/queak-tab-package-pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Queak Tab Finish Project",
+            "screenshot": "screenshots\/queak-tab-finish-project.jpg",
+            "source": "templates\/queak-tab-finish-project.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/queak-tab-finish-project\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services details",
+            "screenshot": "screenshots\/services-details.jpg",
+            "source": "templates\/services-details.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/services-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project",
+            "screenshot": "screenshots\/project.jpg",
+            "source": "templates\/project.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/project\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-category",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Project Single",
+            "screenshot": "screenshots\/project-single.jpg",
+            "source": "templates\/project-single.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/project-single\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/demothemesflat.com\/queak\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Themesflat Addons For Elementor",
+            "version": "1.7.2",
+            "file": "themesflat-addons-for-elementor\/themesflat-addons-for-elementor.php",
+            "author": "Themesflat"
+        }
+    ],
+    "images": [
+        {
+            "filename": "queak-logo.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/queak-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 4675,
+            "dimensions": [
+                154,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "iconft.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/iconft.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 4659,
+            "dimensions": [
+                152,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "paypal.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/paypal.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 2473,
+            "dimensions": [
+                80,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.paypal.com\/"
+        },
+        {
+            "filename": "visa.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/visa.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 2474,
+            "dimensions": [
+                80,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/visa.com\/"
+        },
+        {
+            "filename": "333.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/333.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-02.json",
+                    "name": "Footer Style 02"
+                }
+            ],
+            "filesize": 2743,
+            "dimensions": [
+                80,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.mastercard.com"
+        },
+        {
+            "filename": "img_testimonial_About-LC5LVT4.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/img_testimonial_About-LC5LVT4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-testimonial-home.json",
+                    "name": "Queak Tab Testimonial Home"
+                }
+            ],
+            "filesize": 33527,
+            "dimensions": [
+                195,
+                195
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LC5LVT4"
+        },
+        {
+            "filename": "img_testimonial_home-3GLGKHK.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_testimonial_home-3GLGKHK-800x633.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-testimonial-home.json",
+                    "name": "Queak Tab Testimonial Home"
+                }
+            ],
+            "filesize": 115772,
+            "dimensions": [
+                1340,
+                1060
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3GLGKHK"
+        },
+        {
+            "filename": "quote.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/quote.png",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-01-testimonial-about.json",
+                    "name": "Queak Tab 01 Testimonial About"
+                }
+            ],
+            "filesize": 1741,
+            "dimensions": [
+                51,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_testimonial_About-WMTRNKX.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/img_testimonial_About-WMTRNKX.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-01-testimonial-about.json",
+                    "name": "Queak Tab 01 Testimonial About"
+                }
+            ],
+            "filesize": 33641,
+            "dimensions": [
+                195,
+                195
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMTRNKX"
+        },
+        {
+            "filename": "icon4.3.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/icon4.3.png",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-package-pricing.json",
+                    "name": "Queak Tab Package Pricing"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 3118,
+            "dimensions": [
+                78,
+                69
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "4.4.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/4.4.png",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-package-pricing.json",
+                    "name": "Queak Tab Package Pricing"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 4387,
+            "dimensions": [
+                86,
+                77
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "imgproject1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 89256,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/car-mechanic-repair-service-center-cleaning-using-mops-roll-water-from-epoxy-floor-car-repair-service-center_5307260.htm"
+        },
+        {
+            "filename": "imgproject1.1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject1.1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 104474,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/woman-is-cleaning-bathroom-home_5364226.htm"
+        },
+        {
+            "filename": "imgproject1.2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject1.2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 91798,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/mid-section-unrecognizable-housekeeper-wiping-leather-sofa-with-leather-polish-spray_5699022.htm"
+        },
+        {
+            "filename": "imgproject01.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 88948,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/housekeeping-concept-with-young-woman_3388145.htm"
+        },
+        {
+            "filename": "imgproject02.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 124142,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.shutterstock.com\/image-photo\/cleaning-carpet-brush-hands-yellow-rubber-1285167475"
+        },
+        {
+            "filename": "imgproject03.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 84450,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/cleaning-service-woman-wash-toilet_6109187.htm"
+        },
+        {
+            "filename": "imgproject04.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 116070,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/woman-s-hand-with-blue-microfibre-cloth-rubs-glass-ceramic-plate-kitchen_5150822.htm"
+        },
+        {
+            "filename": "imgproject05.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgproject05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 105432,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/cleaning-house_4150663.htm"
+        },
+        {
+            "filename": "img_gallery_09_project-5XHEFYR.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_gallery_09_project-5XHEFYR.jpg",
+            "templates": [
+                {
+                    "source": "templates\/queak-tab-finish-project.json",
+                    "name": "Queak Tab Finish Project"
+                }
+            ],
+            "filesize": 142479,
+            "dimensions": [
+                370,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-5XHEFYR"
+        },
+        {
+            "filename": "Group-9185.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9185.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2771,
+            "dimensions": [
+                64,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_Home03-F9Y42SV.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_Home03-F9Y42SV-800x617.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 265850,
+            "dimensions": [
+                875,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F9Y42SV"
+        },
+        {
+            "filename": "iconvideohome3.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/iconvideohome3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5289,
+            "dimensions": [
+                134,
+                134
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Element.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Element.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 26803,
+            "dimensions": [
+                1726,
+                464
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-9457@2x.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9457@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4370,
+            "dimensions": [
+                143,
+                143
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Group-9456@2x.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9456@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3289,
+            "dimensions": [
+                143,
+                143
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Group-9455@2x.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9455@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3329,
+            "dimensions": [
+                143,
+                143
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Group-9454@2x.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9454@2x.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2771,
+            "dimensions": [
+                143,
+                143
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "Path-20335.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Path-20335.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6129,
+            "dimensions": [
+                278,
+                274
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "lovely-millennial-housemaid-wiping-kitchen-cabinet-Z4565XL.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/lovely-millennial-housemaid-wiping-kitchen-cabinet-Z4565XL.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 477382,
+            "dimensions": [
+                556,
+                669
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Z4565XL"
+        },
+        {
+            "filename": "Group-869.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-869.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3094,
+            "dimensions": [
+                277,
+                241
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "iconbg.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/iconbg.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 2785,
+            "dimensions": [
+                49,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "lovely-millennial-woman-in-rubber-gloves-wiping-wi-L2GMFXC@2x.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/lovely-millennial-woman-in-rubber-gloves-wiping-wi-L2GMFXC@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 178623,
+            "dimensions": [
+                740,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2GMFXC"
+        },
+        {
+            "filename": "portrait-of-positive-young-maid-holding-cleaning-s-6NAQ8D5@2x.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/portrait-of-positive-young-maid-holding-cleaning-s-6NAQ8D5@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 157875,
+            "dimensions": [
+                740,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6NAQ8D5"
+        },
+        {
+            "filename": "set-of-washing-and-cleaning-equipment-P5VK9GL@2x.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/set-of-washing-and-cleaning-equipment-P5VK9GL@2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 190556,
+            "dimensions": [
+                740,
+                480
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5VK9GL"
+        },
+        {
+            "filename": "tes6.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/tes6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 489135,
+            "dimensions": [
+                1545,
+                725
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MMHDNG5"
+        },
+        {
+            "filename": "Group-9455.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Group-9455.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 53766,
+            "dimensions": [
+                1949,
+                646
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2453,
+            "dimensions": [
+                64,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_team_About-SURKJ7F.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_team_About-SURKJ7F.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 239887,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SURKJ7F"
+        },
+        {
+            "filename": "img_team_About-WA9QBGN.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_team_About-WA9QBGN.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 193427,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WA9QBGN"
+        },
+        {
+            "filename": "img_team_About-RE86Y6L.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_team_About-RE86Y6L.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 255833,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-RE86Y6L"
+        },
+        {
+            "filename": "Element2.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Element2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 148873,
+            "dimensions": [
+                2149,
+                885
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-1.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/Logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4149,
+            "dimensions": [
+                154,
+                55
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "bgrInerpage.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/bgrInerpage-800x208.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services details"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 276956,
+            "dimensions": [
+                1920,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/low-section-young-woman-holding-bucket-with-cleaning-supplies-mop_3347408.htm"
+        },
+        {
+            "filename": "iconuser.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/iconuser.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3044,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "iconuser1.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/iconuser1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3272,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "iconuser2.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/iconuser2.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 2296,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_bg_company_About-P54NYLL.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_bg_company_About-P54NYLL-800x376.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 258954,
+            "dimensions": [
+                1170,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P54NYLL"
+        },
+        {
+            "filename": "11_Project_Single-1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/11_Project_Single-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1990,
+            "dimensions": [
+                96,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bgrbg.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/bgrbg-800x360.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 41062,
+            "dimensions": [
+                1920,
+                863
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_businees_about-EC98DMA.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_businees_about-EC98DMA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 550454,
+            "dimensions": [
+                800,
+                1090
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EC98DMA"
+        },
+        {
+            "filename": "bgrhome1.1.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/bgrhome1.1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 137891,
+            "dimensions": [
+                1920,
+                420
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon111.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/icon111.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 5136,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon112.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/icon112.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4430,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon113.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/icon113.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 4392,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "icon14.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/icon14.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 5453,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_team_About-PM74WUK.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_team_About-PM74WUK.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 199376,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM74WUK"
+        },
+        {
+            "filename": "05.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/05.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 3240,
+            "dimensions": [
+                80,
+                78
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 3694,
+            "dimensions": [
+                79,
+                79
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 2828,
+            "dimensions": [
+                83,
+                75
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "01.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/01.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 2804,
+            "dimensions": [
+                92,
+                77
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 1512,
+            "dimensions": [
+                77,
+                77
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_07_team-TDHNNEN.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_07_team-TDHNNEN.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 215907,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TDHNNEN"
+        },
+        {
+            "filename": "img_05_team-NGN7DUH.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_05_team-NGN7DUH.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 238126,
+            "dimensions": [
+                407,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NGN7DUH"
+        },
+        {
+            "filename": "imgbox.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/imgbox.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3238,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/"
+        },
+        {
+            "filename": "img_faq_Pricingl-CW37Y25.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_faq_Pricingl-CW37Y25.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 301410,
+            "dimensions": [
+                675,
+                754
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CW37Y25"
+        },
+        {
+            "filename": "img_customer_Home01-UCVH3LL.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_customer_Home01-UCVH3LL.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 35054,
+            "dimensions": [
+                740,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UCVH3LL"
+        },
+        {
+            "filename": "img_customer_Home01-FYJKCKS..jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_customer_Home01-FYJKCKS..jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 110275,
+            "dimensions": [
+                740,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FYJKCKS"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/13.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 188731,
+            "dimensions": [
+                740,
+                568
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-photo\/housekeeper-spraying-detergent-with-spray-bottle-glass-window_2667434.htm"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 185133,
+            "dimensions": [
+                740,
+                568
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/woman-cleaning-toilet_5700465.htm"
+        },
+        {
+            "filename": "img_customer_Home01-9AE6ZQY.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_customer_Home01-9AE6ZQY.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 52993,
+            "dimensions": [
+                740,
+                568
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9AE6ZQY"
+        },
+        {
+            "filename": "6serv.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/6serv.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 153679,
+            "dimensions": [
+                370,
+                284
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/low-section-view-female-janitor-cleaning-carpet-with-vacuum-cleaner_3369810.htm"
+        },
+        {
+            "filename": "bgrservice01.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/bgrservice01-800x316.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 33401,
+            "dimensions": [
+                1920,
+                758
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_01_Project_Single.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_01_Project_Single.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services details"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 122914,
+            "dimensions": [
+                370,
+                461
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/premium-photo\/detergent-spray-bottles-wooden-desk-front-woman-moping-home_5217592.htm"
+        },
+        {
+            "filename": "img_02_Project_Single.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_02_Project_Single.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services details"
+                },
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 20331,
+            "dimensions": [
+                233,
+                222
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_01_servicesdetail-2U3HM9N.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_01_servicesdetail-2U3HM9N.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services details"
+                }
+            ],
+            "filesize": 335525,
+            "dimensions": [
+                770,
+                460
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2U3HM9N"
+        },
+        {
+            "filename": "img_02_servicesdetail-F9Y42SV.png",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_02_servicesdetail-F9Y42SV.png",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services details"
+                }
+            ],
+            "filesize": 193794,
+            "dimensions": [
+                400,
+                443
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F9Y42SV"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/04\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project.json",
+                    "name": "Project"
+                }
+            ],
+            "filesize": 3301,
+            "dimensions": [
+                77,
+                77
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "img_projectsingle-W6MVFFW.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_projectsingle-W6MVFFW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 225115,
+            "dimensions": [
+                770,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W6MVFFW"
+        },
+        {
+            "filename": "img_projectsingle-SHBRAMF.jpg",
+            "thumbnail_url": "http:\/\/demothemesflat.com\/queak\/wp-content\/uploads\/2021\/05\/img_projectsingle-SHBRAMF.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-single.json",
+                    "name": "Project Single"
+                }
+            ],
+            "filesize": 232243,
+            "dimensions": [
+                770,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-SHBRAMF"
+        }
+    ]
+}

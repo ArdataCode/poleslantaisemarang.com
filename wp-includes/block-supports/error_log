@@ -1,0 +1,60 @@
+[22-Jan-2024 13:58:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/align.php on line 59
+[22-Jan-2024 13:59:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/background.php on line 111
+[22-Jan-2024 13:59:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/border.php on line 170
+[22-Jan-2024 13:59:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/colors.php on line 138
+[22-Jan-2024 13:59:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/custom-classname.php on line 59
+[22-Jan-2024 13:59:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/dimensions.php on line 87
+[22-Jan-2024 13:59:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/duotone.php on line 36
+[22-Jan-2024 13:59:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/elements.php on line 231
+[22-Jan-2024 13:59:19 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/generated-classname.php on line 66
+[22-Jan-2024 13:59:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/layout.php on line 851
+[22-Jan-2024 13:59:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/position.php on line 145
+[22-Jan-2024 13:59:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/settings.php on line 151
+[22-Jan-2024 13:59:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/shadow.php on line 76
+[22-Jan-2024 13:59:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/spacing.php on line 83
+[22-Jan-2024 13:59:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_Block_Supports" not found in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/poleslantaisemarang.com/wp-includes/block-supports/typography.php on line 646

@@ -1,0 +1,108 @@
+[25-Jan-2024 04:04:48 UTC] PHP Warning:  Undefined array key "margin_tablet" in /home/landingu/poleslantaisemarang.com/wp-content/plugins/elementor/core/files/css/base.php on line 778
+[25-Jan-2024 04:04:48 UTC] PHP Warning:  Undefined array key "margin_mobile" in /home/landingu/poleslantaisemarang.com/wp-content/plugins/elementor/core/files/css/base.php on line 778
+[25-Jan-2024 04:04:48 UTC] PHP Warning:  Undefined array key "padding_tablet" in /home/landingu/poleslantaisemarang.com/wp-content/plugins/elementor/core/files/css/base.php on line 778
+[25-Jan-2024 04:04:48 UTC] PHP Warning:  Undefined array key "padding_mobile" in /home/landingu/poleslantaisemarang.com/wp-content/plugins/elementor/core/files/css/base.php on line 778
+[25-Jan-2024 04:22:11 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[29-Jan-2024 02:15:21 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[31-Jan-2024 05:35:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/poleslantaisemarang.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(292): do_action()
+#12 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/landingu/poleslantaisemarang.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Mar-2024 05:24:48 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/landingu/poleslantaisemarang.com/wp-content/plugins/wp-media-folder-addon/wp-media-folder-addon.php:315
+Stack trace:
+#0 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(326): wpmfAddonPluginCheckForUpdates()
+#1 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#2 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(513): apply_filters()
+#3 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(571): wp_update_plugins()
+#4 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#5 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#6 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#7 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#8 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(292): do_action()
+#9 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#10 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#12 /home/landingu/poleslantaisemarang.com/wp-cron.php(191): do_action_ref_array()
+#13 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-content/plugins/wp-media-folder-addon/wp-media-folder-addon.php on line 315
+[22-Mar-2024 17:22:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/poleslantaisemarang.com/wp-includes/update.php on line 449
+[22-Mar-2024 17:22:59 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/poleslantaisemarang.com/wp-includes/update.php on line 730
+[22-Mar-2024 17:23:01 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/poleslantaisemarang.com/wp-includes/update.php on line 211
+[03-Apr-2024 05:22:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/poleslantaisemarang.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(292): do_action()
+#12 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/landingu/poleslantaisemarang.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[05-Apr-2024 06:42:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/poleslantaisemarang.com/wp-includes/update.php on line 449
+[09-Apr-2024 22:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/poleslantaisemarang.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(292): do_action()
+#12 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/landingu/poleslantaisemarang.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[07-May-2024 21:01:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/landingu/poleslantaisemarang.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(976): wp_mail()
+#5 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(639): WP_Automatic_Updater->send_email()
+#6 /home/landingu/poleslantaisemarang.com/wp-admin/includes/class-wp-automatic-updater.php(606): WP_Automatic_Updater->after_core_update()
+#7 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(852): WP_Automatic_Updater->run()
+#8 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update()
+#9 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#10 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#11 /home/landingu/poleslantaisemarang.com/wp-includes/update.php(292): do_action()
+#12 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home/landingu/poleslantaisemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#14 /home/landingu/poleslantaisemarang.com/wp-includes/plugin.php(565): WP_Hook->do_action()
+#15 /home/landingu/poleslantaisemarang.com/wp-cron.php(191): do_action_ref_array()
+#16 {main}
+  thrown in /home/landingu/poleslantaisemarang.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[13-May-2024 19:26:34 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/landingu/poleslantaisemarang.com/wp-includes/update.php on line 724
